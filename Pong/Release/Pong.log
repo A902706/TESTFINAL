@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,71): warning C4244:         with
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,71): warning C4244:         [
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,71): warning C4244:             T=unsigned int
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,71): warning C4244:         ]
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,45): warning C4244:         with
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,45): warning C4244:         [
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,45): warning C4244:             T=unsigned int
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(8,45): warning C4244:         ]
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(85,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(89,30): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(89,30): warning C4244:         with
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(89,30): warning C4244:         [
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(89,30): warning C4244:             T=unsigned int
+C:\Users\sanch\source\repos\Pong3\Pong\main.cpp(89,30): warning C4244:         ]
+  Generating code
+  1 of 109 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pong.vcxproj -> C:\Users\sanch\source\repos\Pong3\Release\Pong.exe

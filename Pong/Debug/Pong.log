@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         with
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         [
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:             T=unsigned int
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         ]
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         and
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         [
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:             T=float
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,66): warning C4244:         ]
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         with
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         [
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:             T=unsigned int
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         ]
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         and
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         [
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:             T=float
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(21,43): warning C4244:         ]
+C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Pong\main.cpp(51,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Pong.vcxproj -> C:\Users\aofallon\Desktop\Fall2024\cpts122\Pong\Pong2\Debug\Pong.exe
