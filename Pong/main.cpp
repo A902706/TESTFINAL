@@ -12,7 +12,7 @@ int main()
 
 	sf::Texture texture;//background texture	
 	texture.loadFromFile("bg1.jpg");
-
+	  //git hub test
 	sf::Texture alienSpriteTexture[10];//alien sprite texture array
 	for (int i = 0; i < 10; ++i)
 	{
