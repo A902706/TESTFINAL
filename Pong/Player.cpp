@@ -3,9 +3,9 @@
 Player::Player() {
 	points = 0;
 
-	texture.loadFromFile("lvl1_SHIP.jpg");
+	texture.loadFromFile("spaceship.png");
 	setTexture(texture);
-	scale(0.15, 0.15);
+	scale(0.1, 0.1);
 }
 
 void Player::setPoints(const int newPoints) {

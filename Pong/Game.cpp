@@ -5,18 +5,18 @@ void Game::create() {
 	sf::RenderWindow window(sf::VideoMode(2000, 1000), "SFML works!");//window
 
 	Player player1;//player
-	player1.setPosition(window.getSize().x / 2 - 100, window.getSize().y - 200);//position
+	player1.setPosition(window.getSize().x / 2 - 100, window.getSize().y - 250);//position
 
 	sf::Font font;//fonts
 	font.loadFromFile("font.ttf");
 
 	sf::Texture texture;//background texture	
-	texture.loadFromFile("bg1.jpg");
+	texture.loadFromFile("bg2.jpg");
 	//git hub test
 	sf::Texture alienSpriteTexture[10];//alien sprite texture array
 	for (int i = 0; i < 10; ++i)
 	{
-		if (!alienSpriteTexture[i].loadFromFile("e1_SHIP.jpg"))
+		if (!alienSpriteTexture[i].loadFromFile("alien.png"))
 		{
 			std::cerr << "Sprite texture no work at index: " << i << std::endl;
 		}
@@ -32,8 +32,8 @@ void Game::create() {
 	for (int i = 0; i < 10; i++) {//set shape size, color, position
 
 		shapeArray[i].setTexture(alienSpriteTexture[i]);//set sprite texture
-		shapeArray[i].setScale(0.1f, 0.1f);//set scale
-		shapeArray[i].setPosition(-50, -50);//set pos
+		shapeArray[i].setScale(0.3f, 0.3f);//set scale
+		shapeArray[i].setPosition(-80, -80);//set pos
 	}
 
 	
