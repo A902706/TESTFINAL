@@ -201,6 +201,7 @@ void Game::run(sf::RenderWindow& window, Player& player, sf::Font& font, sf::Spr
 							laser[i].setFillColor(sf::Color::Transparent);
 							laser.pop_back();
 							player.textureLevelup();
+							player.setScale(0.15f, 0.15f);
 						}
 						shapeArray[j].move(-300, -1000);
 				}

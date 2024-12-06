@@ -5,7 +5,7 @@ Player::Player() {
 
 	texture.loadFromFile("lvl1_SHIP.jpg"); //load player image
 	setTexture(texture);//sset (texture)
-	scale(0.10, 0.10);//set scale(size)
+	scale(0.15, 0.15);//set scale(size)
 }
 
 void Player::setPoints(const int newPoints) {

@@ -1,5 +1,4 @@
-﻿  Button.cpp
-  Game.cpp
+﻿  Game.cpp
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(9,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(9,71): warning C4244:         with
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(9,71): warning C4244:         [
@@ -18,21 +17,16 @@ C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(179,41): warnin
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(187,21): warning C4018: '<': signed/unsigned mismatch
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(196,21): warning C4018: '<': signed/unsigned mismatch
 C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(200,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(214,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(218,30): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(218,30): warning C4244:         with
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(218,30): warning C4244:         [
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(218,30): warning C4244:             T=unsigned int
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(218,30): warning C4244:         ]
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(244,21): warning C4018: '<': signed/unsigned mismatch
-  main.cpp
-  Player.cpp
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Player.cpp(8,14): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Player.cpp(8,8): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Player.cpp(31,9): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(215,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(219,30): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(219,30): warning C4244:         with
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(219,30): warning C4244:         [
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(219,30): warning C4244:             T=unsigned int
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(219,30): warning C4244:         ]
+C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Pong\Game.cpp(245,21): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  170 of 177 functions (96.0%) were compiled, the rest were copied from previous compilation.
+  2 of 177 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    12 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Pong.vcxproj -> C:\Users\sanch\OneDrive\Documents\GitHub\TESTFINAL\Release\Pong.exe

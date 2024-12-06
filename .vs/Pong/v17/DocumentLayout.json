@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8C3114-91EA-4B97-9EE5-81224094A023}|Pong\\Pong.vcxproj|C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Game.hpp",
               "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Game.hpp",
               "RelativeDocumentMoniker": "Pong\\Game.hpp",
@@ -43,7 +47,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-05T07:27:22.69Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Player.cpp",
+              "RelativeDocumentMoniker": "Pong\\Player.cpp",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Player.cpp",
+              "RelativeToolTip": "Pong\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T06:54:59.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,14 +71,14 @@
               "RelativeDocumentMoniker": "Pong\\Game.cpp",
               "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Game.cpp",
               "RelativeToolTip": "Pong\\Game.cpp",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwCoAAAA7AAAA",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAYwMsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T06:29:42.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.hpp",
               "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Player.hpp",
               "RelativeDocumentMoniker": "Pong\\Player.hpp",
@@ -68,11 +86,12 @@
               "RelativeToolTip": "Pong\\Player.hpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T04:51:02.794Z"
+              "WhenOpened": "2024-12-06T04:51:02.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\main.cpp",
               "RelativeDocumentMoniker": "Pong\\main.cpp",
@@ -84,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Button.hpp",
               "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documents\\GitHub\\TESTFINAL\\Pong\\Button.hpp",
               "RelativeDocumentMoniker": "Pong\\Button.hpp",
