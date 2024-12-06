@@ -3,9 +3,9 @@
 Player::Player() {
 	points = 0;
 
-	texture.loadFromFile("lvl1_SHIP.jpg"); //load player image
+	texture.loadFromFile("level1Ship.png"); //load player image
 	setTexture(texture);//sset (texture)
-	scale(0.15, 0.15);//set scale(size)
+	scale(0.9, 0.9);//set scale(size)
 }
 
 void Player::setPoints(const int newPoints) {
@@ -43,16 +43,16 @@ void Player::textureLevelup()
 {
 	if (points == 10)
 	{
-		texture.loadFromFile("lvl2_SHIP.jpg");
+		texture.loadFromFile("level2Ship.png");
 	}
 	else if (points == 20)
 	{
-		texture.loadFromFile("lvl3_SHIP.jpg");
+		texture.loadFromFile("level3Ship.png");
 
 	}
 	else if (points == 30)
 	{
-		texture.loadFromFile("lvl4_SHIP.jpg");
+		texture.loadFromFile("level4Ship.png");
 
 	}
 }

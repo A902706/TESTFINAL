@@ -25,7 +25,7 @@ void Game::create() {
 
 
 	sf::Texture alienSpriteTexture;//alien sprite texture array
-	alienSpriteTexture.loadFromFile("e1_SHIP.jpg");
+	alienSpriteTexture.loadFromFile("purpleAlien.png");
 
 	sf::Sprite shapeArray[10];//Sprite Array
 
@@ -173,12 +173,12 @@ void Game::run(sf::RenderWindow& window, Player& player, sf::Font& font, sf::Spr
 		player.movePlayer(event);
 
 		//laster shooting
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up)) {
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space)) {
 			if (laser.size() < 30) {//size of laser vector = thickness of bullet how far out it goes
 				sf::CircleShape circle;
-				circle.setRadius(window.getSize().x / 500);
+				circle.setRadius(window.getSize().x / 150);
 				circle.setFillColor(sf::Color::Red);
-				circle.setPosition(player.getPosition().x +10, player.getPosition().y - 10 );
+				circle.setPosition(player.getPosition().x +50, player.getPosition().y + 20 );
 				laser.push_back(circle);
 			}
 		}
@@ -201,9 +201,10 @@ void Game::run(sf::RenderWindow& window, Player& player, sf::Font& font, sf::Spr
 							laser[i].setFillColor(sf::Color::Transparent);
 							laser.pop_back();
 							player.textureLevelup();
-							player.setScale(0.15f, 0.15f);
+							player.setScale(0.9f, 0.9f);
 						}
-						shapeArray[j].move(-300, -1000);
+						shapeArray[j].move(-500.0, 500.0);
+						
 				}
 			}
 		}
