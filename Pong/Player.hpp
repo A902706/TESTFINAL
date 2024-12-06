@@ -14,4 +14,9 @@ public:
 
 	void setPoints(const int newPoints);
 	int getPoints() const;
+	sf::Text displayPoints(sf::Font& font);
+	void movePlayer(sf::Event event);
+
+	void textureLevelup();
+
 };

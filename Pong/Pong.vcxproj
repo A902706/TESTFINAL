@@ -148,12 +148,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Player.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bullet.hpp" />
-    <ClInclude Include="Paddle.hpp" />
+    <ClInclude Include="Button.hpp" />
+    <ClInclude Include="Game.hpp" />
     <ClInclude Include="Player.hpp" />
   </ItemGroup>
   <ItemGroup>
@@ -162,6 +164,7 @@
   <ItemGroup>
     <Image Include="bg1.jpg" />
     <Image Include="bg2.jpg" />
+    <Image Include="bg3.jpg" />
     <Image Include="e1_SHIP.jpg" />
     <Image Include="e2_SHIP.jpg" />
     <Image Include="e3_SHIP.jpg" />

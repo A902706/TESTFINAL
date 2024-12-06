@@ -21,15 +21,21 @@
     <ClCompile Include="Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Paddle.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Player.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Bullet.hpp">
+    <ClInclude Include="Button.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -76,6 +82,9 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="lvl6_SHIPSECRET.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bg3.jpg">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
